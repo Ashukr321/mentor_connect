@@ -207,7 +207,7 @@ const AlumniMentorshipView: React.FC<MentorshipViewProps> = ({ activeTab, search
       nextMeeting: {
         date: new Date(2024, 3, 20, 15, 0),
         topic: 'Mock Interview Practice',
-        link: 'https://meet.google.com/wos-vqex-jks'
+        link: 'https://meet.google.com/sow-jdnn-jxo'
       },
       goals: [
         'Prepare for technical interviews',
@@ -229,7 +229,7 @@ const AlumniMentorshipView: React.FC<MentorshipViewProps> = ({ activeTab, search
       nextMeeting: {
         date: new Date(2024, 3, 22, 16, 30),
         topic: 'Career Planning Session',
-        link: 'https://meet.google.com/wos-vqex-jks'
+        link: 'https://meet.google.com/sow-jdnn-jxo'
       },
       goals: [
         'Develop 5-year career plan',
@@ -433,7 +433,7 @@ const StudentMentorshipView: React.FC<MentorshipViewProps> = ({ activeTab, searc
       nextMeeting: {
         date: new Date(2024, 3, 20, 15, 0),
         topic: 'Mock Interview Practice',
-        link: 'https://meet.google.com/wos-vqex-jks'
+        link: 'https://meet.google.com/sow-jdnn-jxo'
       },
       goals: [
         'Prepare for technical interviews',

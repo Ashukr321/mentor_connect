@@ -64,7 +64,7 @@ export const dummyEvents: Event[] = [
     endDate: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000 + 4 * 60 * 60 * 1000).toISOString(),
     location: 'Online',
     isOnline: true,
-    meetingLink: 'https://meet.google.com/abc-defg-hij',
+    meetingLink: 'https://meet.google.com/sow-jdnn-jxo',
     organizer: {
       _id: 'org3',
       firstName: 'Arun',
@@ -114,7 +114,7 @@ export const dummyEvents: Event[] = [
     endDate: new Date(Date.now() + 21 * 24 * 60 * 60 * 1000 + 2 * 60 * 60 * 1000).toISOString(),
     location: 'Online',
     isOnline: true,
-    meetingLink: 'https://meet.google.com/xyz-uvwx-yz',
+    meetingLink: 'https://meet.google.com/sow-jdnn-jxo',
     organizer: {
       _id: 'org5',
       firstName: 'Suresh',
